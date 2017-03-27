@@ -1,0 +1,7 @@
+F:\Jeff gf2 noter 2017\Visual Studio\Karakter\Karakter\bin\Release\Karakter.exe
+F:\Jeff gf2 noter 2017\Visual Studio\Karakter\Karakter\bin\Release\Karakter.pdb
+F:\Jeff gf2 noter 2017\Visual Studio\Karakter\Karakter\obj\x86\Release\WindowsFormsApplication1.Gennemsnit.resources
+F:\Jeff gf2 noter 2017\Visual Studio\Karakter\Karakter\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+F:\Jeff gf2 noter 2017\Visual Studio\Karakter\Karakter\obj\x86\Release\Karakter.csproj.GenerateResource.Cache
+F:\Jeff gf2 noter 2017\Visual Studio\Karakter\Karakter\obj\x86\Release\Karakter.exe
+F:\Jeff gf2 noter 2017\Visual Studio\Karakter\Karakter\obj\x86\Release\Karakter.pdb

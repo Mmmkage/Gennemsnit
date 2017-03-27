@@ -1,0 +1,24 @@
+C:\Users\Jeff\Documents\Visual Studio 2010\Projects\Karakter\Karakter\bin\Debug\Karakter.exe
+C:\Users\Jeff\Documents\Visual Studio 2010\Projects\Karakter\Karakter\bin\Debug\Karakter.pdb
+C:\Users\Jeff\Documents\Visual Studio 2010\Projects\Karakter\Karakter\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Jeff\Documents\Visual Studio 2010\Projects\Karakter\Karakter\obj\x86\Debug\Karakter.csproj.GenerateResource.Cache
+C:\Users\Jeff\Documents\Visual Studio 2010\Projects\Karakter\Karakter\obj\x86\Debug\Karakter.exe
+C:\Users\Jeff\Documents\Visual Studio 2010\Projects\Karakter\Karakter\obj\x86\Debug\Karakter.pdb
+C:\Users\Jeff\Documents\Visual Studio 2010\Projects\Karakter\Karakter\obj\x86\Debug\WindowsFormsApplication1.Gennemsnit.resources
+C:\Users\Jeff\documents\visual studio 2010\Projects\Karakter\Karakter\obj\x86\Debug\Karakter.csprojResolveAssemblyReference.cache
+F:\Jeff gf2 noter 2017\Visual Studio\Karakter\Karakter\obj\x86\Debug\WindowsFormsApplication1.Gennemsnit.resources
+F:\Jeff gf2 noter 2017\Visual Studio\Karakter\Karakter\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Jeff gf2 noter 2017\Visual Studio\Karakter\Karakter\obj\x86\Debug\Karakter.csproj.GenerateResource.Cache
+F:\Jeff gf2 noter 2017\Visual Studio\Karakter\Karakter\bin\Debug\Karakter Beregner.exe
+F:\Jeff gf2 noter 2017\Visual Studio\Karakter\Karakter\bin\Debug\Karakter Beregner.pdb
+F:\Jeff gf2 noter 2017\Visual Studio\Karakter\Karakter\obj\x86\Debug\Karakter.csprojResolveAssemblyReference.cache
+F:\Jeff gf2 noter 2017\Visual Studio\Karakter\Karakter\obj\x86\Debug\Karakter Beregner.exe
+F:\Jeff gf2 noter 2017\Visual Studio\Karakter\Karakter\obj\x86\Debug\Karakter Beregner.pdb
+D:\Jeff gf2 noter 2017\Visual Studio\Karakter\Karakter\obj\x86\Debug\Karakter Beregner.exe
+D:\Jeff gf2 noter 2017\Visual Studio\Karakter\Karakter\obj\x86\Debug\Karakter Beregner.pdb
+D:\Jeff gf2 noter 2017\Visual Studio\Karakter\Karakter\obj\x86\Debug\Karakter.csprojResolveAssemblyReference.cache
+D:\Jeff gf2 noter 2017\Visual Studio\Karakter\Karakter\obj\x86\Debug\WindowsFormsApplication1.Gennemsnit.resources
+D:\Jeff gf2 noter 2017\Visual Studio\Karakter\Karakter\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Jeff gf2 noter 2017\Visual Studio\Karakter\Karakter\obj\x86\Debug\Karakter.csproj.GenerateResource.Cache
+D:\Jeff gf2 noter 2017\Visual Studio\Karakter\Karakter\bin\Debug\Karakter Beregner.exe
+D:\Jeff gf2 noter 2017\Visual Studio\Karakter\Karakter\bin\Debug\Karakter Beregner.pdb
